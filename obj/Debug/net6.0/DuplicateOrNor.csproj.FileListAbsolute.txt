@@ -1,0 +1,15 @@
+C:\Users\nitesh\Desktop\C#\DuplicateOrNor\DuplicateOrNor\bin\Debug\net6.0\DuplicateOrNor.exe
+C:\Users\nitesh\Desktop\C#\DuplicateOrNor\DuplicateOrNor\bin\Debug\net6.0\DuplicateOrNor.deps.json
+C:\Users\nitesh\Desktop\C#\DuplicateOrNor\DuplicateOrNor\bin\Debug\net6.0\DuplicateOrNor.runtimeconfig.json
+C:\Users\nitesh\Desktop\C#\DuplicateOrNor\DuplicateOrNor\bin\Debug\net6.0\DuplicateOrNor.dll
+C:\Users\nitesh\Desktop\C#\DuplicateOrNor\DuplicateOrNor\bin\Debug\net6.0\DuplicateOrNor.pdb
+C:\Users\nitesh\Desktop\C#\DuplicateOrNor\DuplicateOrNor\obj\Debug\net6.0\DuplicateOrNor.csproj.AssemblyReference.cache
+C:\Users\nitesh\Desktop\C#\DuplicateOrNor\DuplicateOrNor\obj\Debug\net6.0\DuplicateOrNor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitesh\Desktop\C#\DuplicateOrNor\DuplicateOrNor\obj\Debug\net6.0\DuplicateOrNor.AssemblyInfoInputs.cache
+C:\Users\nitesh\Desktop\C#\DuplicateOrNor\DuplicateOrNor\obj\Debug\net6.0\DuplicateOrNor.AssemblyInfo.cs
+C:\Users\nitesh\Desktop\C#\DuplicateOrNor\DuplicateOrNor\obj\Debug\net6.0\DuplicateOrNor.csproj.CoreCompileInputs.cache
+C:\Users\nitesh\Desktop\C#\DuplicateOrNor\DuplicateOrNor\obj\Debug\net6.0\DuplicateOrNor.dll
+C:\Users\nitesh\Desktop\C#\DuplicateOrNor\DuplicateOrNor\obj\Debug\net6.0\refint\DuplicateOrNor.dll
+C:\Users\nitesh\Desktop\C#\DuplicateOrNor\DuplicateOrNor\obj\Debug\net6.0\DuplicateOrNor.pdb
+C:\Users\nitesh\Desktop\C#\DuplicateOrNor\DuplicateOrNor\obj\Debug\net6.0\DuplicateOrNor.genruntimeconfig.cache
+C:\Users\nitesh\Desktop\C#\DuplicateOrNor\DuplicateOrNor\obj\Debug\net6.0\ref\DuplicateOrNor.dll
